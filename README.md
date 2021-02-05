@@ -52,4 +52,5 @@ The scope has also been reduce to focus on the country ‘United States’ and t
  6  | city_id       | 142 non-null   | int64  | numeric
  7  | name_y        | 142 non-null   | object | ?
  
+**Data Overiew
 
