@@ -16,3 +16,24 @@ Tasking
     4. Check for data inaccuracy ie. Missing values, inaccurate data types.   
     5. Transform data if needed.  
     6. Create charts and graphs to view.  
+
+   This project is a test case study on the efficiency on the use of the pandas, numpy and matplotlib libraries (libs). It is an official test case study and is meant to familiarizes the users with the use of the mentioned libs. The data is collected from kaggle “Transit Systems of World” project, which can be reviewed at the following link  https://www.kaggle.com/citylines/city-lines. It contains seven data-set CITIES, LINES, STATION_LINES, STATIONS, SYSTEMS, TRACK_LINES and TRACKS. Due to the scope and limited of time, the project will be limited to the following:
+
+CITY (7 columns)
+> 'id', 'name', 'coords', 'start_year', 'url_name', 'country',  'country_state'
+
+LINES(7 columns)
+> 'id', 'city_id', 'name', 'url_name', 'color', 'system_id', 'transport_mode_id'
+
+TRACKS(6 columns)
+> id', 'geometry', 'buildstart', 'opening', 'closure', 'length'
+
+The 3 data set are merged as followed: 
+
+    cities_track_lines = pd.merge(cities, track_lines, left_on = 'id', right_on = 'city_id', how = 'inner')
+
+    cities_station_lines = pd.merge(cities, station_lines, left_on = 'id', right_on = 'city_id', how = 'inner')
+
+    cities_lines = pd.merge(cities, lines, left_on = 'id', right_on = 'city_id', how = 'inner')
+
+The scope has also been reduce to focus on the country ‘United States’ and the columns  ________  is kept for further exploration.  
