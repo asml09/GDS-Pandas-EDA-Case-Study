@@ -56,3 +56,5 @@ The scope has also been reduce to focus on the country ‘United States’ and t
 
 ![Overview of Cities in the data set](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/cityfreq.png)
 ![Rail Line per City](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/numcitylines.png)
+
+![Rail Line per City](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/numcitylines.png)
