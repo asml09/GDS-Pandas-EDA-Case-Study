@@ -1,0 +1,143 @@
+,id_x,coords,start_year,url_name_x,country,country_state,city_id,name_y
+1,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Red Line
+2,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Blue Line
+3,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Green Line
+4,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Orange Line
+5,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Purple Line
+6,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Pink Line
+7,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Yellow Line
+8,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Brown Line
+9,147,POINT(-87.61666667 41.83333333),1892.0,chicago,United States,Ill.,147,Garfield Park Line
+865,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Green Line/A
+866,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Orange Line
+867,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Blue Line
+868,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Red Line
+869,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Hyannis
+870,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Mattapan Line
+871,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Green Line/B
+872,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Green Line/D
+873,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Highland Branch
+874,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Green Line/C
+875,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Fairmount Line
+876,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Atlantic Avenue Line
+877,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Main Line
+878,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Framingham/Worcester Line
+879,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Green Line
+880,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Fitchburg Line
+881,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Main Line
+882,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Franklin Line
+883,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Needham Branch
+884,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Charles River Branch
+885,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Stoughton Branch
+886,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Needham Line
+887,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Providence/Stoughton Line
+888,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Midland Line
+889,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Lowell Line
+890,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Fitchburg Line
+891,139,POINT(-71.08333333 42.35),1806.0,boston,United States,Mass.,139,Green Line/E
+893,152,POINT(-96.76666667 32.76666667),1989.0,dallas,United States,Tex.,152,Red Line
+894,152,POINT(-96.76666667 32.76666667),1989.0,dallas,United States,Tex.,152,Blue Line
+895,152,POINT(-96.76666667 32.76666667),1989.0,dallas,United States,Tex.,152,Green Line
+896,152,POINT(-96.76666667 32.76666667),1989.0,dallas,United States,Tex.,152,Orange Line
+897,148,POINT(-84.5 39.13333333),1920.0,cincinnati,United States,Ohio,148,Red Line
+898,148,POINT(-84.5 39.13333333),1920.0,cincinnati,United States,Ohio,148,Blue Line
+899,189,POINT(-118.25 34.05),2017.0,los-angeles,United States,Calif.,189,Blue Line
+900,189,POINT(-118.25 34.05),2017.0,los-angeles,United States,Calif.,189,Red Line
+901,189,POINT(-118.25 34.05),2017.0,los-angeles,United States,Calif.,189,Purple Line
+902,189,POINT(-118.25 34.05),2017.0,los-angeles,United States,Calif.,189,Expo Line
+907,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Broadway-7th Avenue Line
+908,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,2nd Avenue Line
+909,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,6th Avenue Line
+910,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,3rd Avenue Line
+911,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Culver Line
+912,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Harlem Line
+913,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Jerome Avenue Line
+914,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Port Chester Line
+915,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,White Plains Line
+916,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Harlem River Line
+917,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Lenox Avenue Line
+918,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Culver Line
+919,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Fulton Street Line
+920,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,9th Avenue Line
+921,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Dyre Avenue Line
+922,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Pelham Line
+923,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Harlem Division
+924,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,New Haven Line
+925,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Putnam Division
+926,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Yonkers Branch
+927,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Franklin Avenue Line
+928,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Flushing Line
+929,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Myrtle Avenue Line
+930,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,West End Line
+931,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,White Plains Road Line
+932,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Lexington Avenue Line
+933,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,5th Avenue Line
+934,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Myrtle Avenue Line
+935,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Astoria Line
+936,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Fulton Street Line
+937,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Brighton Line
+938,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Archer Avenue Line (BMT)
+939,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Jamaica Line
+940,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Far Rockaway Branch
+941,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Main Line
+942,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Rockaway Beach Branch
+943,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Rockaway Line
+944,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Sea Beach Line
+945,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,4th Avenue Line
+946,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,8th Avenue Line
+947,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Nassau Street Line
+948,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Crosstown Line
+949,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Broadway Line
+950,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Lexington Avenue Line
+951,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,42nd Street Shuttle
+952,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Eastern Parkway Line
+953,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,New Lots Line
+954,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Concourse Line
+955,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Nostrand Avenue Line
+956,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Canarsie Line
+957,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Queens Boulevard Line
+958,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,6th Avenue Line
+959,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Archer Avenue Line (IND)
+960,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Hempstead Branch
+961,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,PATH
+962,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,West Hempstead Branch
+963,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,2nd Avenue Line
+964,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,West Side Branch
+965,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Main Line
+966,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Long Beach Branch
+967,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Port Washington Branch
+968,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Atlantic Branch
+969,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Oyster Bay Branch
+970,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,City Subway
+971,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Port Jefferson Branch
+972,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Montauk Line
+973,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,North Shore Branch
+974,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Main Line
+975,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Broad Street Branch
+976,206,POINT(-73.96666667 40.78333333),1832.0,new-york,United States,N.Y.,206,Hudson Line
+977,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,J
+978,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,Limited
+979,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,T
+980,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,K
+981,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,L
+982,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,M
+983,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,N
+984,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,Baby Bullet
+985,231,POINT(-122.4333333 37.78333333),2017.0,san-francisco,United States,Calif.,231,Local
+986,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Red Line
+987,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Orange Line
+988,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Free Transfer Available Between These Stations:
+989,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Purple Line Monorail
+990,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Yellow Line Light Rail
+991,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Teal Line Light Rail
+992,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Lime Line Rapid Bus Corridor
+993,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Brown Line Rapid Bus Corridor
+994,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Aqua Line InterCounty Train
+995,236,POINT(-122.3333333 47.61666667),1961.0,seattle,United States,Wash.,236,Gold Line InterCounty Train
+1228,252,POINT(-77.03333333 38.88333333),1969.0,washington,United States,D.C.,252,Orange Line
+1229,252,POINT(-77.03333333 38.88333333),1969.0,washington,United States,D.C.,252,Green Line
+1230,252,POINT(-77.03333333 38.88333333),1969.0,washington,United States,D.C.,252,Yellow Line
+1231,252,POINT(-77.03333333 38.88333333),1969.0,washington,United States,D.C.,252,Silver Line
+1232,252,POINT(-77.03333333 38.88333333),1969.0,washington,United States,D.C.,252,30N Wisconsin Avenue Line
+1233,252,POINT(-77.03333333 38.88333333),1969.0,washington,United States,D.C.,252,Blue Line 
+1234,252,POINT(-77.03333333 38.88333333),1969.0,washington,United States,D.C.,252,Red Line
