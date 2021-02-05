@@ -1,4 +1,4 @@
-Clearly state the goal of your project (what were you exploring?) 
+Goals of this project.
 
     1. Describe the data. 
     2. What features (columns) did you have to work with? 
