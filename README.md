@@ -28,7 +28,7 @@ LINES(7 columns)
 TRACKS(6 columns)
 > id', 'geometry', 'buildstart', 'opening', 'closure', 'length'
 
-The 3 data set are merged as followed: 
+The 3 data-sets is merged as followed: 
 
     cities_track_lines = pd.merge(cities, track_lines, left_on = 'id', right_on = 'city_id', how = 'inner')
 
@@ -36,4 +36,4 @@ The 3 data set are merged as followed:
 
     cities_lines = pd.merge(cities, lines, left_on = 'id', right_on = 'city_id', how = 'inner')
 
-The scope has also been reduce to focus on the country ‘United States’ and the columns  ________  is kept for further exploration.  
+The scope has also been reduce to focus on the country ‘United States’ and the columns 'id_x', 'coords', 'start_year', 'url_name_x', 'country', 'country_state', 'city_id', 'name_y' is kept for further exploration.  
