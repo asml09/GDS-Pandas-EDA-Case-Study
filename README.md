@@ -44,20 +44,23 @@ The scope has also been reduce to focus on the country ‘United States’ and t
  i  | Column        | Non-Null Count | Dtype | Feature Type
 --- | ------        | -------------- | ----- | -------
  0  | id_x          | 142 non-null   | int64 | numeric
- 1  | coords        | 142 non-null   | object| text / continuous
+ 1  | coords        | 142 non-null   | object| ?
  2  | start_year    | 142 non-null   | float64| numeric 
- 3  | url_name_x    | 142 non-null   | object | category
- 4  | country       | 142 non-null   | object | category
- 5  | country_state | 142 non-null   | object | category
+ 3  | url_name_x    | 142 non-null   | object | ?
+ 4  | country       | 142 non-null   | object | ?
+ 5  | country_state | 142 non-null   | object | ?
  6  | city_id       | 142 non-null   | int64  | numeric
- 7  | name_y        | 142 non-null   | object | category
+ 7  | name_y        | 142 non-null   | object | ?
  
-**Data View**
+**Data Overiew**
 
 ![Overview of Cities in the data set](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/cityfreq.png)
 ![Rail Line per City](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/numcitylines.png)
-![Rail Line Start Date](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/USAStartDate.png)
+
 ![Pie chart - california](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.28.19%20PM.png)
 ![Distribution all of US](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.45.41%20PM.png)
 ![Bar chart washington](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.45.51%20PM.png)
 
+Conclusion:
+We learned that there are lots of useful functions in pandas to view summarizing information about a dataset. 
+What we would change next time is explore the datasets more before we decided what to do. We decided to use lines, and this was not a particularely interesting feature. The only data we could explore with this is how many of each type of line there was in various areas. Something more interesting to expore would have been the line lengths, as we could have done a lot more with this (mean, etc.)
