@@ -44,15 +44,15 @@ The scope has also been reduce to focus on the country ‘United States’ and t
  i  | Column        | Non-Null Count | Dtype | Feature Type
 --- | ------        | -------------- | ----- | -------
  0  | id_x          | 142 non-null   | int64 | numeric
- 1  | coords        | 142 non-null   | object| ?
+ 1  | coords        | 142 non-null   | object| text / continuous
  2  | start_year    | 142 non-null   | float64| numeric 
- 3  | url_name_x    | 142 non-null   | object | ?
- 4  | country       | 142 non-null   | object | ?
- 5  | country_state | 142 non-null   | object | ?
+ 3  | url_name_x    | 142 non-null   | object | category
+ 4  | country       | 142 non-null   | object | category
+ 5  | country_state | 142 non-null   | object | category
  6  | city_id       | 142 non-null   | int64  | numeric
- 7  | name_y        | 142 non-null   | object | ?
+ 7  | name_y        | 142 non-null   | object | category
  
-**Data Overiew**
+**Data View*
 
 ![Overview of Cities in the data set](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/cityfreq.png)
 ![Rail Line per City](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/numcitylines.png)
