@@ -1,4 +1,4 @@
-*Goals of this project.*
+    *Goals of this project.*
 
     1. Describe the data. 
     2. What features (columns) did you have to work with? 
