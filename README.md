@@ -62,5 +62,8 @@ The scope has also been reduce to focus on the country ‘United States’ and t
 ![Bar chart washington](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.45.51%20PM.png)
 
 Conclusion:
-We learned that there are lots of useful functions in pandas to view summarizing information about a dataset. 
-What we would change next time is explore the datasets more before we decided what to do. We decided to use lines, and this was not a particularely interesting feature. The only data we could explore with this is how many of each type of line there was in various areas. Something more interesting to expore would have been the line lengths, as we could have done a lot more with this (mean, etc.)
+After analyzing our gathered data, we have concluded the following points:
+1.  New York City has the most transit systems, Cincinati has the fewest.
+2.  Boston and San-Fransisco have the oldest and newest tain systems.
+3.  Washington D.C. has a total of 10 lines.
+In the future, we will explore the datasets more thoughtfully before extracting and presenting our information. Most of the graphs were barcharts and held very little data. We would like to expand into other types. Additionally, we would like to include more meaningful data such as means and medians, however these stats were not very helpful in the set of data we chose to explore. 
