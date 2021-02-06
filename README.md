@@ -58,10 +58,10 @@ The scope has also been reduce to focus on the country ‘United States’ and t
 ![Rail Line per City](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/numcitylines.png)
 
 EDIT: title is california
-<img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.28.19%20PM.png" width="400" height="400">
+<img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.28.19%20PM.png" width="500" height="400">
 <img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.45.41%20PM.png" width="400" height="400">
 <img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.45.51%20PM.png" width="400" height="400">
-<img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/USAStartDate.png)
+![Rail Line per City](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/USAStartDate.png)
 
 ### Conclusion:
 
