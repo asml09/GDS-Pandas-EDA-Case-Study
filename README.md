@@ -61,7 +61,7 @@ EDIT: title is california
 <img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.28.19%20PM.png" width="500" height="400">
 <img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.45.41%20PM.png" width="400" height="400">
 <img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/Screen%20Shot%202021-02-05%20at%203.45.51%20PM.png" width="400" height="400">
-![Rail Line per City](https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/USAStartDate.png)
+<img src="https://github.com/tibrado/GDS-Pandas-EDA-Case-Study/blob/master/images/USAStartDate.png" width="400" height="400">
 
 ### Conclusion:
 
@@ -71,4 +71,4 @@ After analyzing our gathered data, we have concluded the following points:
     2.  Boston and San-Fransisco have the oldest and newest tain systems.
     3.  Washington D.C. has a total of 10 lines.
 
-*In the future, we will explore the datasets more thoughtfully before extracting and presenting our information. Most of the graphs were barcharts and held very little data. We would like to expand into other types. Additionally, we would like to include more meaningful data such as means and medians, however these stats were not very helpful in the set of data we chose to explore.*
+>In the future, we will explore the datasets more thoughtfully before extracting and presenting our information. Most of the graphs were barcharts and held very little data. We would like to expand into other types. Additionally, we would like to include more meaningful data such as means and medians, however these stats were not very helpful in the set of data we chose to explore.
